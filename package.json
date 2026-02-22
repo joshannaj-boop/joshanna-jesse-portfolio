@@ -1,0 +1,29 @@
+{
+  "name": "joshanna-jesse-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio",
+  "homepage": "https://github.com/joshannaj-boop/joshanna-jesse-portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/joshannaj-boop/joshanna-jesse-portfolio/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshannaj-boop/joshanna-jesse-portfolio.git"
+  },
+  "license": "ISC",
+  "author": "Joshanna Jesse",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
